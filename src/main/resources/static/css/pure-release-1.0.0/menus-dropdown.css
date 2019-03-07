@@ -32,13 +32,13 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
 }
 
 /* Vertical Menus - show the dropdown arrow */
-.pure-menu-has-children > .pure-menu-link:after {
+.pure-menu-has-children > .nav-item:after {
     padding-left: 0.5em;
     content: "\25B8";
     font-size: small;
 }
 
 /* Horizontal Menus - show the dropdown arrow */
-.pure-menu-horizontal .pure-menu-has-children > .pure-menu-link:after {
+.pure-menu-horizontal .pure-menu-has-children > .nav-item:after {
     content: "\25BE";
 }
