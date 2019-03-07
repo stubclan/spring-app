@@ -33,7 +33,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
     height: 100%;
 }
 
-.pure-menu-link,
+.nav-item,
 .pure-menu-heading {
     display: block;
     text-decoration: none;
